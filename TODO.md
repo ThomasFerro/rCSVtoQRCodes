@@ -1,2 +1,1 @@
-- Manage the QRCode's size depending on the string length
 - Add logs and console messages
